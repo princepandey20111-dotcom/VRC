@@ -1,0 +1,6 @@
+{
+  "name": "VRC MACHINERIES",
+  "description": "Daily Machine Inspection App for Vehicles, HMP Plant, RMC Plant, WMM Plant, Heavy Machinery and Construction Equipment. Developed by Prince Pandey.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
